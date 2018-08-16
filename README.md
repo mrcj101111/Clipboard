@@ -1,2 +1,2 @@
-# Geckos-Team-23
-Add-project-description-here | Voyage-5 | chingu.io
+Chingu Cohort: Team Geckos-23
+
